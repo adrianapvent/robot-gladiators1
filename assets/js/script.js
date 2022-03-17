@@ -5,8 +5,6 @@ var playerInfo = {
     money: 10
 };
 
-console.log("update ot code")
-
 //You can also log multiple values at once like this
 // console.log(playerName, playerAttack, playerHealth)
 
